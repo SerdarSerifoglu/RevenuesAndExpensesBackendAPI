@@ -1,0 +1,26 @@
+{
+  "name": "revenuesandexpensesbackendapi",
+  "version": "1.0.0",
+  "description": "Revenues and Expenses Backend API ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerdarSerifoglu/RevenuesAndExpensesBackendAPI.git"
+  },
+  "keywords": [
+    "Revenue",
+    "Expense",
+    "Backend",
+    "NodeJs",
+    "MongoDB"
+  ],
+  "author": "Omer Serdar Serifoglu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SerdarSerifoglu/RevenuesAndExpensesBackendAPI/issues"
+  },
+  "homepage": "https://github.com/SerdarSerifoglu/RevenuesAndExpensesBackendAPI#readme"
+}
